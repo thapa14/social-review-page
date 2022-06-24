@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/thapa14/social-review-page)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://bejewelled-halva-ffd7c3.netlify.app/)
 
 ### Built with
 
@@ -33,7 +33,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
+- github - [@thapa14](https://github.com/thapa14)
+- Frontend Mentor - [@thapa14](https://www.frontendmentor.io/profile/thapa14)
+- Instagram - [@the_3_eyed_raven](https://www.instagram.com/the_3_eyed_raven/)
